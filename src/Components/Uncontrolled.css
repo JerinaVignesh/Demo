@@ -1,0 +1,19 @@
+.formOuter {
+  padding: 40px;
+}
+.name {
+  color: wheat;
+  margin-right: 20px;
+}
+.pass {
+  color: wheat;
+  margin-right: 40px;
+}
+.btns {
+  color: red;
+  padding: auto;
+  margin-top: 10px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  background-color: aqua;
+}

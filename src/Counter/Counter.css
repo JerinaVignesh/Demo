@@ -1,0 +1,23 @@
+.counterApp {
+  margin-top: 20px;
+}
+.incButton {
+  width: 80px;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: green;
+}
+.incValue {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.decButton {
+  width: 80px;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: red;
+}

@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: rgb(156, 153, 155);
+  min-height: 100vh;
+}
+.btns {
+  background-color: blue;
+  width: 250px;
+  height: 40px;
+  border-radius: 10px;
+  margin: 10px;
+  text-align: center;
+  border: 2px solid white;
+  color: white;
+  cursor: pointer;
+}

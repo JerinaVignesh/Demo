@@ -1,0 +1,30 @@
+.form-outer {
+  background-color: gray;
+  padding-top: 40px;
+}
+.name {
+  forced-color-adjust: black;
+  color: black;
+  margin-right: 20px;
+}
+.pass {
+  color: white;
+  margin-right: 20px;
+}
+form input {
+  margin: 10px;
+}
+.btn {
+  text-align: center;
+  background-color: green;
+  width: 100px;
+  padding: auto;
+}
+.success-text {
+  color: green;
+  width: 200px;
+}
+.fail-text {
+  color: red;
+  width: 200px;
+}
